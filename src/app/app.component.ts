@@ -11,9 +11,8 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'ProyectoNuevoGit';
   constructor() {
-    console.log('FUNCIONES DE PRUEBA ')
-    console.warn('ADVERTENCIA')
-    console.log('PRUEBA DE CONFLICTOS')
-
+    console.log('NUEVAS FUNCIONES')
+    console.warn('CUIDADO NUEVAS FUNCIONES')
+    console.log('PRUEBAS DE CONFLICTOS')
   }
 }
